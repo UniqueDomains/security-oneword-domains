@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .security one-word domains from Un
 
 **Public extract:** 9,821 rows · **Live catalog:** 9,821 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/security`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | Nokia.security      | premium   | —         | —             | 88             | 84     | 5      | —         |
 | good.security       | available | $2,950    | —             | 82             | 55     | 4      | namecheap |
 | sheraton.security   | premium   | —         | —             | 52             | 84     | 8      | —         |
-| alpha.security      | available | $2,950    | —             | 90             | 54     | 5      | namecheap |
+| business.security   | available | $2,950    | —             | 100            | 53     | 8      | namecheap |
 | authentic.security  | premium   | —         | —             | 76             | 83     | 9      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
