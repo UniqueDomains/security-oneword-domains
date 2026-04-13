@@ -74,9 +74,9 @@ print(df.head())
 | indeed.security     | premium   | —         | —             | 94             | 85     | 6      | —         |
 | seventeen.security  | available | $2,950    | —             | 84             | 62     | 9      | namecheap |
 | AOL.security        | premium   | —         | —             | 86             | 85     | 3      | —         |
-| free.security       | available | $2,950    | —             | 88             | 59     | 4      | namecheap |
-| swift.security      | premium   | —         | —             | 68             | 85     | 5      | —         |
 | ace.security        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
+| swift.security      | premium   | —         | —             | 68             | 85     | 5      | —         |
+| free.security       | available | $2,950    | —             | 88             | 57     | 4      | namecheap |
 | chase.security      | premium   | —         | —             | 66             | 85     | 5      | —         |
 | live.security       | available | $2,950    | —             | 108            | 56     | 4      | namecheap |
 | Nokia.security      | premium   | —         | —             | 88             | 84     | 5      | —         |
