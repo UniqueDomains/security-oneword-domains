@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .security one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,815 domains · **Median ask:** $2,768.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/security`  
 **Best for:** founders, investors, studios
 
@@ -69,11 +69,11 @@ print(df.head())
 | donuts.security   | available | $2,950    | —             | 54             | 62     | 6      | namecheap |
 | cars.security     | available | $2,950    | —             | 66             | 47     | 4      | namecheap |
 | robots.security   | available | $1,999.99 | $2,049.99     | 62             | 47     | 6      | namesilo  |
-| whynot.security   | available | $2,950    | —             | 74             | 39     | 7      | namecheap |
+| whynot.security   | available | $2,950    | —             | 74             | 44     | 7      | namecheap |
 | WiFi.security     | available | $2,950    | —             | 83             | 37     | 5      | namecheap |
 | stories.security  | available | $2,950    | —             | 58             | 36     | 7      | namecheap |
-| partners.security | available | $2,950    | —             | 61             | 32     | 8      | namecheap |
 | William.security  | available | $2,950    | —             | 74             | 31     | 7      | namecheap |
+| partners.security | available | $2,950    | —             | 61             | 31     | 8      | namecheap |
 | letsgo.security   | available | $2,950    | —             | 57             | 31     | 7      | namecheap |
 | videos.security   | available | $2,950    | —             | 52             | 30     | 6      | namecheap |
 | SanDiego.security | available | $1,999.99 | $2,049.99     | 74             | 29     | 9      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
