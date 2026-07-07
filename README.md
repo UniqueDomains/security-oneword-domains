@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .security one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,815 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,815 domains · **Median ask:** $2,768.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,815 domains · **Median ask:** $2,246.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/security`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/security`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SECURITY one-word dom
 
 ### Files
 
-- `security.csv` — public CSV extract (1,000 rows)
-- `security.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `security.csv`, public CSV extract (1,000 rows)
+- `security.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| CocaCola.security | available | $2,950    | —             | 92             | 82     | 9      | namecheap |
-| insight.security  | available | $2,950    | —             | 76             | 69     | 8      | namecheap |
-| donuts.security   | available | $2,950    | —             | 54             | 62     | 6      | namecheap |
-| cars.security     | available | $2,950    | —             | 66             | 47     | 4      | namecheap |
-| robots.security   | available | $1,999.99 | $2,049.99     | 62             | 47     | 6      | namesilo  |
-| whynot.security   | available | $2,950    | —             | 74             | 44     | 7      | namecheap |
-| WiFi.security     | available | $2,950    | —             | 83             | 37     | 5      | namecheap |
-| stories.security  | available | $2,950    | —             | 58             | 36     | 7      | namecheap |
-| William.security  | available | $2,950    | —             | 74             | 31     | 7      | namecheap |
-| partners.security | available | $2,950    | —             | 61             | 31     | 8      | namecheap |
-| letsgo.security   | available | $2,950    | —             | 57             | 31     | 7      | namecheap |
-| videos.security   | available | $2,950    | —             | 52             | 30     | 6      | namecheap |
-| SanDiego.security | available | $1,999.99 | $2,049.99     | 74             | 29     | 9      | namesilo  |
-| quotes.security   | available | $2,950    | —             | 58             | 29     | 6      | namecheap |
-| blocks.security   | available | $2,950    | —             | 53             | 29     | 6      | namecheap |
-| forms.security    | available | $2,950    | —             | 54             | 28     | 5      | namecheap |
-| photos.security   | available | $2,950    | —             | 54             | 28     | 6      | namecheap |
-| KFC.security      | available | $2,950    | —             | 74             | 27     | 3      | namecheap |
-| tips.security     | available | $2,950    | —             | 80             | 26     | 4      | namecheap |
-| trades.security   | available | $1,999.99 | $2,049.99     | 71             | 26     | 6      | namesilo  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| abc.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| ADS.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| ane.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
+| Ava.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| btw.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| bud.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| cow.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| coy.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| dry.security | available | $2,950    | —             | high           | low    | 3      | namecheap |
+| due.security | available | $2,950    | —             | high           | low    | 3      | namecheap |
+| dye.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| fan.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| fly.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| fun.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| get.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| ham.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| hug.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| hum.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| ing.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| ink.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .security domain names. The range includes broad dictionary terms, functional words, and commercially suggestive options such as chatbot.security, solution.security, and atlantic.security. Median ask is 2,768, which gives a practical pricing reference when judging whether a name is sensible for immediate ownership or worth passing on. When comparing these domains, focus on how naturally the word pairs with .security, whether the term sounds credible in a security context, and whether the name is memorable without becoming vague. Generic words can feel flexible, but weak semantic fit can reduce clarity and resale appeal.
+This list gathers 12,815 one-word domain names built on the .security TLD, ranging from everyday nouns like jewels and pictures to invented brandable terms like edamame and comeonline. With a median ask of $2,246, pricing varies widely across the set, so comparing individual asks against renewal costs and brandability is essential before committing to any one name. For investors, the breadth of this list offers a wide view of where pricing sits relative to demand; for founders, the mix of short, memorable, one-word options makes it easier to shortlist a name that's ownable now and easy to spell.
 
-- Prefer words that read naturally with .security
-- Use the 2,768 median ask as a pricing reference
-- Check memorability against vague or awkward keyword fit
-- Screen brand terms carefully for trademark risk
+- 12,815 one-word .security domain names in this list
+- Median ask: $2,246 across the full selection
+- Brandable one-word names spanning many themes
+- Updated daily for current pricing and renewal comparison
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
