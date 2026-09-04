@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 61ab4a0d-2caf-4e04-bead-44fc9b4089a6,iconic.security,available,1999.99,2049.99,high,low,6,namesilo,,
-5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,2950,,high,low,10,namecheap,,
+5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,1999.99,2049.99,medium,low,10,namesilo,,
 f3ff9c3d-a12e-4c47-807c-83dc069d813b,contained.security,available,1999.99,2049.99,medium,low,9,namesilo,,
 7970b0af-57e2-48ce-925d-c04f9d1a65f0,fruity.security,available,2070,2950,medium,low,6,namecheap,,
 411101aa-f815-4e72-994a-56a74825ec07,staff.security,available,1999.99,2049.99,high,low,5,namesilo,,
@@ -992,7 +992,7 @@ b8311784-2d8f-4b0c-8e64-507917b09649,inquestion.security,available,1999.99,2049.
 68bfd6fe-5e50-4644-9754-f83312b93c32,evening.security,available,2950,,high,low,7,namecheap,,
 285acef6-ef56-40ec-9e9f-7fbea52e2fe6,britain.security,available,2950,,high,low,7,namecheap,,
 14b2fc2a-1df2-4923-ad8f-aac524113471,invent.security,available,1999.99,2049.99,high,low,6,namesilo,,
-85c47ff0-1074-4c9d-870e-c59b52e38706,mouth.security,available,1999.99,2049.99,high,low,5,namesilo,,
+85c47ff0-1074-4c9d-870e-c59b52e38706,mouth.security,available,1999.99,2049.99,medium,low,5,namesilo,,
 602d869d-6420-4fa1-bfac-54e2aa11820d,grocery.security,available,1999.99,2049.99,high,low,7,namesilo,,
 9341ec86-7dd8-4f60-b329-968ae00a30e2,behave.security,available,1999.99,2049.99,high,low,6,namesilo,,
 ef6923b9-4b81-4193-962e-ea72d8d57a6e,musical.security,available,1999.99,2049.99,high,low,7,namesilo,,
