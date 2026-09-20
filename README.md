@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .security one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,437 domains · **Median ask:** $2,078.12 · **High-demand under $2,500:** 80
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/security`
 **Best for:** founders, investors, studios
 
@@ -66,9 +66,9 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | abc.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
 | abo.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
-| ADS.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| ads.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
 | ane.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
-| Ava.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| ava.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
 | btw.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | bud.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | cow.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
