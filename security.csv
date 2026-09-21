@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 61ab4a0d-2caf-4e04-bead-44fc9b4089a6,iconic.security,available,1999.99,2049.99,high,low,6,namesilo,,,
-5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,2070,2950,medium,low,10,namecheap,,,19/09/2026 02:35
+5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,2070,2950,medium,low,10,namecheap,,,20/09/2026 16:48
 f3ff9c3d-a12e-4c47-807c-83dc069d813b,contained.security,available,1999.99,2049.99,medium,low,9,namesilo,,,
 7970b0af-57e2-48ce-925d-c04f9d1a65f0,fruity.security,available,2070,2950,medium,low,6,namecheap,,,06/08/2026 21:00
 411101aa-f815-4e72-994a-56a74825ec07,staff.security,available,1999.99,2049.99,high,low,5,namesilo,,,
