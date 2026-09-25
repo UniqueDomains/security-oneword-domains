@@ -1,10 +1,10 @@
-# Available .SECURITY One-Word Domains (32,795)
+# Available .SECURITY One-Word Domains (33,709)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C795%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C709%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .security one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,795 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,709 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,795 domains · **Median ask:** $2,063.67 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 33,709 domains · **Median ask:** $2,063.46 · **High-demand under $2,500:** 64
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/security`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| abc.security | available | $1,999.99 | $2,049.99     | medium         | medium | 3      | namesilo  |
-| abo.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
+| abc.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| abo.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| add.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | ads.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
-| ane.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
+| ana.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| ane.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | ava.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
+| azo.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | btw.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | bud.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| but.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | cow.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| coy.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
-| dry.security | available | $2,950    | —             | high           | low    | 3      | namecheap |
-| due.security | available | $1,999.99 | $2,049.99     | low            | low    | 3      | namesilo  |
-| dye.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
-| fan.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
-| fly.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| fun.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
-| get.security | available | $2,070    | $2,950        | medium         | low    | 3      | namecheap |
-| ham.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| day.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| dye.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| fla.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| flu.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| ham.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | hug.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 | hum.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| ing.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
+| iii.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,795 live domains                        |
+| 1,000-row public sample | 33,709 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 64 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
