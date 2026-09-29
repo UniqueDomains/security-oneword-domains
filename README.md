@@ -1,10 +1,10 @@
-# Available .SECURITY One-Word Domains (25,797)
+# Available .SECURITY One-Word Domains (27,782)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C797%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C782%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .security one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,797 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,782 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,797 domains · **Median ask:** $2,045.93 · **High-demand under $2,500:** 144
+**Public extract:** 1,000 rows · **Live catalog:** 27,782 domains · **Median ask:** $2,036.02 · **High-demand under $2,500:** 158
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/security`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| acm.security | available | $1,863.20 | $2,000.18     | high           | low    | 3      | spaceship |
-| atf.security | available | $2,070    | $2,950        | high           | low    | 3      | namecheap |
-| aum.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| bag.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| bja.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo  |
-| bro.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| bun.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| cbs.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
-| cnn.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| cxl.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| flu.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| gia.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| hal.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| han.security | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun   |
-| her.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| hiv.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
-| jem.security | available | $2,070    | $2,950        | high           | low    | 3      | namecheap |
-| lax.security | available | $2,070    | $2,950        | medium         | low    | 3      | namecheap |
-| lee.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo  |
-| lsd.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| acm.security | available | $1,863.20 | $2,000.18     | high           | low    | 3      | spaceship  |
+| atf.security | available | $2,070    | $2,950        | high           | low    | 3      | namecheap  |
+| aum.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| bag.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| bao.security | available | $2,060.25 | $2,060.25     | medium         | low    | 3      | porkbun    |
+| bja.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo   |
+| bro.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| bun.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| cbs.security | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo   |
+| cnn.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| cxl.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| fax.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| flu.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| hal.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| han.security | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun    |
+| her.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| hiv.security | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo   |
+| ipc.security | available | $1,999.99 | $2,049.99     | medium         | low    | 3      | namesilo   |
+| ira.security | available | $2,000.20 | $2,000.20     | medium         | low    | 3      | cloudflare |
+| jem.security | available | $2,070    | $2,950        | high           | low    | 3      | namecheap  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,797 live domains                        |
+| 1,000-row public sample | 27,782 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 144 high-demand names under $2,500         |
+| Basic exported fields   | 158 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SECURITY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
